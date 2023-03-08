@@ -89,7 +89,7 @@
     color: rgb(0, 0, 0);
     font-weight: bolder;
 }
-@media  only screen and (max-width:600px){
+@media  only screen and (max-width:426px){
     .j{
         position: relative;
         right:970px;
